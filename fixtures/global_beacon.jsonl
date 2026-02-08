@@ -1,0 +1,2 @@
+{"ts":1736387700000,"kind":"heartbeat","status":"ok","module":"scheduler","summary":"Nightly summary complete","path":"/Users/demo/0luka/runtime/logs/a.log"}
+{"ts":1736387760000,"kind":"job","status":"warn","module":"bridge","summary":"Retrying stalled job"}

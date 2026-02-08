@@ -1,0 +1,33 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+
+# local env
+.env
+.env.*
+!.env.example
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# testing
+coverage/
+.nyc_output/
+
+# convex generated
+convex/_generated/
+
+# build artifacts
+build/
+dist/
+
+# misc
+.DS_Store
+*.swp
+*.swo

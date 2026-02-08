@@ -1,0 +1,10 @@
+{
+  "ts": 1736387820000,
+  "kind": "task",
+  "status": "queued",
+  "module": "dispatch",
+  "summary": "Queue follow-up verification",
+  "payload": {
+    "ref": "/Users/demo/0luka/interface/outbox/tasks/task-a.json"
+  }
+}

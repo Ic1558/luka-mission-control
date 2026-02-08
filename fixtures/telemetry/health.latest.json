@@ -1,0 +1,7 @@
+{
+  "ts": 1736387880000,
+  "kind": "telemetry",
+  "status": "ok",
+  "module": "observability",
+  "summary": "Telemetry heartbeat within threshold"
+}
