@@ -1,3 +1,6 @@
+> **LEGACY — superseded by [LukaOS](https://github.com/Ic1558/lukaos).**
+> 0luka grew old and bloated, so it was replaced by LukaOS. This repository is kept as read-only historical evidence. Do not start new work here.
+
 # luka-mission-control
 
 Mission Control dashboard built with Next.js App Router + Convex.
