@@ -1,5 +1,5 @@
-> **LEGACY — superseded by [LukaOS](https://github.com/Ic1558/lukaos).**
-> 0luka grew old and bloated, so it was replaced by LukaOS. This repository is kept as read-only historical evidence. Do not start new work here.
+> **LEGACY — superseded by [LukaOS](https://github.com/Ic1558/lukaos), the active local-first runtime.**
+> Historical references and migration status are tracked in LukaOS [docs/native-company-database.md](https://github.com/Ic1558/lukaos/blob/main/docs/native-company-database.md). Legacy consumers are retired incrementally; check migration status before relying on this repository.
 
 # luka-mission-control
 
